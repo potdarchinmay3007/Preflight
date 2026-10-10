@@ -52,6 +52,10 @@ Policy documents (5 mock files) are searched inside `simulate_agent_run`, not du
 top 3 returned, BM25 keyword ranking (no embeddings). **TODO:** run `measure_space.py` and paste its output (needs `tiktoken` so the counts are
 real tokens, not the characters/4 estimate).
 
+## 8. Screnshoot
+<img width="1266" height="1154" alt="image" src="https://github.com/user-attachments/assets/b377ba70-c261-4ab6-9736-f7a3e07530ac" />
+
+
 ## Limits
 Mock data only. Lift is a simple rate comparison with a Wilson interval, not a causal test; the KEEP rule compares the signal's range with the
 baseline point estimate. Duplicate matching is string-based. Retrieval is keyword-based, so several issue types at once can crowd out a topic.
