@@ -1,0 +1,1 @@
+{"lookalike_prospecting": {"signal": "first_gtm_hire", "actions": ["email", "crm_update"]}, "website_visitor_outreach": {"signal": "pricing_page_visits", "actions": ["email"]}, "champion_reactivation": {"signal": "champion_moves", "actions": ["email", "crm_update"]}, "conference_followup": {"signal": "conference_attendee", "actions": ["email"]}}
